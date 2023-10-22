@@ -1,0 +1,4 @@
+chop(2, [1, 2, 3, 4] return (index) 1
+chop(1, [1]) return 0
+________________________
+chop(0, [1]) return -1
