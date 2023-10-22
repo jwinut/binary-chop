@@ -1,4 +1,8 @@
+chop method 2
+chop method 3
+chop method 4
+chop method 5
+________________________
 chop(2, [1, 2, 3, 4] return (index) 1
 chop(1, [1]) return 0
-________________________
 chop(0, [1]) return -1
